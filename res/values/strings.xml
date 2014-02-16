@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">MyReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_navigate">Navigate</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_text_reader">TextReader</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_text">TextActivity</string>
+    <string name="title_activity_file_reader">FileReaderActivity</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_activity_read_book">ReadBook</string>
+    <string name="title_activity_tab_activity_test">TabActivityTest</string>
+
+</resources>
